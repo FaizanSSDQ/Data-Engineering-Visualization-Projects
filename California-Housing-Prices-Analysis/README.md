@@ -78,7 +78,7 @@ For algorithms sensitive to the scale of features (e.g., Linear Regression, KNN)
 ---
 
 ## Contributors
-- [Your Name Here]  
+- Faizan Saleem Siddiqui
 *Feel free to add details about contributors.*
 
 ---
