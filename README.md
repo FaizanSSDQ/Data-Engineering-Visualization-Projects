@@ -36,9 +36,9 @@ https://github.com/FaizanSSDQ/Machine-Learning-Projects/tree/main
 
 
 
-# Data Science Projects Repository
+# Data Engineering Projects Repository
 
-Welcome to the Data Science Projects Repository! This repository is a comprehensive collection of projects focused on **Data Visualization**, **Data Analysis**, and **Data Engineering**. Each project within its respective subfolder demonstrates various techniques and methodologies used in the field of data science, showcasing the power and importance of effective data handling and representation.
+Welcome to the Data Engineering Projects Repository! This repository is a comprehensive collection of projects focused on **Data Visualization**, **Data Analysis**, and **Data Engineering**. Each project within its respective subfolder demonstrates various techniques and methodologies used in the field of data science, showcasing the power and importance of effective data handling and representation.
 
 ## Overview
 
