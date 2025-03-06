@@ -82,6 +82,4 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 
 For inquiries, suggestions, or feedback, feel free to reach out:
 
-Your Name - Faizan Saleem Siddiqui, Visiting Faculty Member, Quaid-i-Azam University, Islamabad 
-
-
+Your Name - Faizan Saleem Siddiqui, AI/ML Practitioner, Expert in NLP & Computer Vision. Graduat of Electronics, Research Scholar at QAU. Currently a student of  Masters of Electronics at QAU, specializing in Autonomous Vehicles, ML & Data Engineering.
